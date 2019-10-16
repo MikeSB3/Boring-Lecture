@@ -1,0 +1,23 @@
+h2.intro {
+  text-align: center;
+  line-height: 1.5px;
+  text-decoration: underline;
+}
+
+p.intro {
+  font-weight: bold;
+  text-align: center;
+  color: grey;
+}
+
+img.intro {
+  border-radius: 20px;
+  width: 150px;
+  box-shadow: 10px 10px 5px grey;
+}
+
+h1.intro {
+  text-align: center;
+  line-height: 1.5px;
+  text-decoration: line-through;
+}

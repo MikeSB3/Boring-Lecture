@@ -1,33 +1,15 @@
-.header2 {
-  text-align: center;
-  line-height: 1.5px;
-  text-decoration: underline;
+img {
+  float: left;
 }
 
-p.intro {
-  font-weight: bold;
-  text-align: center;
-  color: grey;
+.sidebar {
+  width: 100%;
+  float:left;
+  background-color: red;
 }
 
-img.intro {
-  border-radius: 20px;
-  width: 150px;
-  box-shadow: 10px 10px 5px grey;
-}
-
-.welcome{
-  text-align: center;
-  line-height: 1.5px;
-  text-decoration: line-through;
-}
-
-.list {
-  color: red;
-  font-style: italic;
-  font-weight: bold;
-}
-
-.interest {
-  font-style: normal;
+.columns {
+  width: 24%;
+  float: left;
+  padding: 5px;
 }

@@ -19,3 +19,25 @@ img {
   margin: 4px;
   background-color: red;
 }
+
+.animal h1 {
+  font-style: italic;
+  width: 100%;
+  margin-top: 30px;
+  float: left;
+  border-top: 2px black solid;
+  padding: 20px;
+}
+
+@media screen and ( max-width:768px) {
+    body{
+      background-color:black;
+      color:white;
+    }
+}
+@media screen and ( max-width:350px){
+    body{
+      background-color: green;
+      color: grey;
+    }
+}
